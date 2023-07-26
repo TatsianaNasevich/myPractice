@@ -1,2 +1,4 @@
 first
 changes from remote
+line 3
+line 4
