@@ -5,4 +5,3 @@ line 4
 new
 jbttwo
 for amend
-for revert
